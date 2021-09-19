@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ukelele
+* source:	https://sketchfab.com/3d-models/ukelele-51a11445803142da9d6c5ecc1fb09276
+* author:	C.J..Goldman (https://sketchfab.com/C.J..Goldman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ukelele" (https://sketchfab.com/3d-models/ukelele-51a11445803142da9d6c5ecc1fb09276) by C.J..Goldman (https://sketchfab.com/C.J..Goldman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
